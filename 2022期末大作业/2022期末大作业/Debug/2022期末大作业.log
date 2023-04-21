@@ -1,0 +1,40 @@
+﻿生成启动时间为 2022/6/12 15:40:11。
+     1>项目“D:\可视化\2022期末大作业\2022期末大作业\2022期末大作业.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\2022期末大作业.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\2022期末大作业.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "2022期末大作业.cpp" "2022期末大作业View.cpp" MyDlg.cpp
+         MyDlg.cpp
+         2022期末大作业View.cpp
+         正在生成代码...
+         正在编译...
+         2022期末大作业.cpp
+         正在生成代码...
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\可视化\2022期末大作业\Debug\2022期末大作业.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\2022期末大作业.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\可视化\2022期末大作业\Debug\2022期末大作业.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\可视化\2022期末大作业\Debug\2022期末大作业.lib" /MACHINE:X86 "Debug\2022期末大作业.res"
+         "Debug\2022期末大作业.exe.embed.manifest.res"
+         "Debug\2022期末大作业.obj"
+         "Debug\2022期末大作业Doc.obj"
+         "Debug\2022期末大作业View.obj"
+         Debug\MainFrm.obj
+         Debug\MyDlg.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\2022期末大作业.exe.embed.manifest" /manifest "Debug\2022期末大作业.exe.intermediate.manifest" "d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         2022期末大作业.vcxproj -> D:\可视化\2022期末大作业\Debug\2022期末大作业.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\2022期末大作业.unsuccessfulbuild”。
+         正在对“Debug\2022期末大作业.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\可视化\2022期末大作业\2022期末大作业\2022期末大作业.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.54

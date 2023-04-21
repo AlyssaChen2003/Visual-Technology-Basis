@@ -1,0 +1,34 @@
+﻿生成启动时间为 2022/3/31 15:37:32。
+     1>项目“D:\可视化\MsgTest\MsgTest\MsgTest.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\MsgTest.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\MsgTest.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt MsgTestView.cpp
+         MsgTestView.cpp
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\可视化\MsgTest\Debug\MsgTest.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\MsgTest.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\可视化\MsgTest\Debug\MsgTest.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\可视化\MsgTest\Debug\MsgTest.lib" /MACHINE:X86 Debug\MsgTest.res
+         Debug\MsgTest.exe.embed.manifest.res
+         Debug\MainFrm.obj
+         Debug\MsgTest.obj
+         Debug\MsgTestDoc.obj
+         Debug\MsgTestView.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\MsgTest.exe.embed.manifest" /manifest Debug\MsgTest.exe.intermediate.manifest "d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         MsgTest.vcxproj -> D:\可视化\MsgTest\Debug\MsgTest.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\MsgTest.unsuccessfulbuild”。
+         正在对“Debug\MsgTest.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\可视化\MsgTest\MsgTest\MsgTest.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.43
